@@ -1,5 +1,7 @@
 # Pretty Redirect
-Forked from loyahdev's Fullscreen-Web-Test, this is an updated versions with an improved design.
+A redirect page.
+
+Forked from loyahdev's Fullscreen-Web-Test, this is an updated version with an improved design.
 ### Changes:
 - Loading animation (Thanks loading.io)
 - Dynamic dark/light mode design
